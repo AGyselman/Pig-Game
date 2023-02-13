@@ -10,7 +10,7 @@ The goal being to **hold** the maximum of point in its camp :inbox_tray: and rea
 
 The **player 1** :man::woman: begins the game and if one of the two players **fall** on the throw of **dice 1** that will pass the turn to the other player :repeat_one:, and if you did not **hold** your points before falling on the **dice 1**, in this case you will **lose** your points *accumulated* during your turn. :triumph:
 
-The *dice* are generated in a totally random way with the **Math.random()* method. 
+The *dice* are generated in a totally random way with the **Math.random()** method. 
 
 This game **highlights** the **manipulation of the dom** with **JavaScript**, we get the *classes* we want to *modify* with **getElementById** or **querySelector**.
 
